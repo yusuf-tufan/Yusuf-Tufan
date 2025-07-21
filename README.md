@@ -4,7 +4,7 @@
 
  ## 💫 About Me:
 
-🔭 I’m currently working on Software Develop<br>👯 I’m looking to collaborate on my repositories<br>🤝 I’m looking for help with my codes<br>🌱 I’m currently learning Software<br>💬 Ask me about Software
+🔭 I’m currently working on Software Develop<br>🤝 I’m looking for help with my codes<br>🌱 I’m currently learning Software<br>💬 Ask me about Software
 
 
 <br>
