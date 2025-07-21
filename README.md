@@ -1,5 +1,5 @@
 # 💫 Hi there👋, I'm Yusuf Tufan
-**A passionate Software Developer || I'm a Computer Engeneering student || Admin from Türkiye**
+**A passionate Software Developer || I'm a Computer Engeneering student || Admin from Türkiye
 
 ,# 💫 About Me:
 
@@ -23,7 +23,7 @@
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
