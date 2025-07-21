@@ -1,6 +1,6 @@
  💫 Hi there👋, I'm Yusuf Tufan
  
-   A passionate Software Developer || I'm a Computer Engeneering student || Admin from Türkiye
+   A devoted Software Developer || I'm a Computer Engeneering student || Admin from Türkiye
 
  💫 About Me:
 
