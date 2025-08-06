@@ -1,6 +1,9 @@
- # 💫 Hi there👋, I'm Yusuf Tufan
- <strong>A devoted Software Developer || I'm a Computer Engeneering student || Admin from Türkiye
-</strong>
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="800" height='400'> 
+
+ # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height='28'> Hi there👋, I'm Yusuf Tufan 
+
+ **A devoted Software Developer || I'm a Computer Engeneering student || Admin from Türkiye**
+
   
 
  ## 💫 About Me:
@@ -40,4 +43,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=yusuf-tufan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
+🎯 [View the my projects on GitHub](https://github.com/yusuf-tufan?tab=repositories)
+
+
