@@ -1,10 +1,18 @@
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="800" height='400' style="background-color: black;"> 
+  <ul><ul><ul><ul><ul><ul><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="650" height='450'></ul></ul></ul></ul></ul></ul>
+  
+<p align="center">
+  <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
+    <img 
+      src="https://readme-typing-svg.demolab.com?lines=%20WELCOME%20TO%20MY%20CODING%20WORLD;%20STUDENT%20COMPUTER%20ENGINEERING;%20SOFTWARE%20DEVELOPER;ALWAYS%20LEARNING%20NEW%20THINGS&font=Arial+Black&center=true&width=600&height=45&color=#007BFF&vCenter=true&pause=5&size=30"
+    />
+  </a>
+</p> 
 
  # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height='28'> Hi there👋, I'm Yusuf Tufan 
 
- **A devoted Software Developer || I'm a Computer Engeneering student || Admin from Türkiye**
+ ### <li>A devoted Software Developer || I'm a Computer Engeneering student || Admin from Türkiye</li>
 
-  
+
 
  ## 💫 About Me:
 
