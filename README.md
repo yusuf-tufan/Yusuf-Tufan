@@ -16,7 +16,7 @@
 
  ## 💫 About Me:
 
-🔭 I’m currently working on Software Develop<br>🌱 I’m currently learning Software<br>💬 Ask me about Software<br>👯 I’m looking to collaborate on my repositories
+🔭 I’m currently working on Software Develop<br>🌱 I’m currently learning Software<br>💬 Ask me about Software<br>🤝 I’m looking to collaborate on my repositories
 
 
 <br>
