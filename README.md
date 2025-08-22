@@ -41,6 +41,9 @@ My goal is not just to write code, but to deliver impactful solutions that addre
   <img width="" />
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
   <img width="" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
   <img width="" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
