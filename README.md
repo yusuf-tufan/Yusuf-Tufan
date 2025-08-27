@@ -18,16 +18,8 @@
 Hi there! I'm Yusuf, a passionate software developer dedicated to creating innovative solutions and building efficient, user-centric software. My journey in software development is driven by a commitment to solving real-world problems and continuously improving my skill set.
 My goal is not just to write code, but to deliver impactful solutions that address user needs while adhering to best coding practices. I strive to write clean, maintainable code and contribute to projects that make a difference. Let’s connect and collaborate on exciting ventures! 🚀
 
-
-
-
 <br>
 
- ## 🏆 GitHub Trophies
- 
-![](https://github-profile-trophy.vercel.app/?username=yusuf-tufan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-<br>
-<br>
  ## 💻 Tech Stack:
  
 <div align="left">
