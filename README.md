@@ -3,8 +3,7 @@
 <p align="center">
   <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
     <img 
-      src="https://readme-typing-svg.demolab.com?lines=%20WELCOME%20TO%20MY%20CODING%20WORLD;%20STUDENT%20COMPUTER%20ENGINEERING;%20SOFTWARE%20DEVELOPER;ALWAYS%20LEARNING%20NEW%20THINGS&font=Arial+Black&center=true&width=600&height=45&color=#007BFF&vCenter=true&pause=5&size=30"
-    />
+      src="https://readme-typing-svg.demolab.com?lines=%20WELCOME%20TO%20MY%20CODING%20WORLD;%20STUDENT%20COMPUTER%20ENGINEERING;%20SOFTWARE%20DEVELOPER;ALWAYS%20LEARNING%20NEW%20THINGS&font=Arial+Black&center=true&width=600&height=45&color=#007BFF&vCenter=true&pause=5&size=40"/>
   </a>
 </p> 
 
