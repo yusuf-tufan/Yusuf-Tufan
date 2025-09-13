@@ -1,5 +1,4 @@
   <ul><ul><ul><ul><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="650" height='450'></ul></ul></ul></ul>
-  
 <p align="center">
   <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
     <img 
@@ -7,6 +6,7 @@
   </a>
 </p> 
 
+---
  # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height='28'> Hi there👋, I'm Yusuf Tufan 
 
  ### <li>A devoted Software Developer || I'm a Computer Engeneering student || Admin from Türkiye</li>
@@ -17,6 +17,7 @@
 Hi there! I'm Yusuf, a passionate software developer dedicated to creating innovative solutions and building efficient, user-centric software. My journey in software development is driven by a commitment to solving real-world problems and continuously improving my skill set.
 My goal is not just to write code, but to deliver impactful solutions that address user needs while adhering to best coding practices. I strive to write clean, maintainable code and contribute to projects that make a difference. Let’s connect and collaborate on exciting ventures! 🚀
 
+---
 <br>
 
  ## 💻 Tech Stack:
@@ -67,7 +68,6 @@ My goal is not just to write code, but to deliver impactful solutions that addre
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yusuf-tufan&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
 🎯 [View the my projects on GitHub](https://github.com/yusuf-tufan?tab=repositories)
 
