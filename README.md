@@ -1,12 +1,13 @@
-  <ul><ul><ul><ul><ul><ul><ul><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="580" height='400'></ul></ul></ul></ul></ul></ul></ul>
+  <ul><ul><ul><ul><ul><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"></ul></ul></ul></ul></ul>
 <p align="center">
   <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
     <img 
-      src="https://readme-typing-svg.demolab.com?lines=%20WELCOME%20TO%20MY%20CODING%20WORLD;%20STUDENT%20COMPUTER%20ENGINEERING;%20SOFTWARE%20DEVELOPER;ALWAYS%20LEARNING%20NEW%20THINGS&font=Arial+Black&center=true&width=600&height=45&color=#007BFF&vCenter=true&pause=5&size=40"/>
+      src="https://readme-typing-svg.demolab.com?lines=%20WELCOME%20TO%20MY%20CODING%20WORLD;%20STUDENT%20COMPUTER%20ENGINEERING;%20SOFTWARE%20DEVELOPER;ALWAYS%20LEARNING%20NEW%20THINGS&font=Arial+Black&center=true&width=650&height=40&color=#007BFF&vCenter=true&pause=5&size=40"/>
   </a>
 </p> 
 
----
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1028" height="34">
+
  # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height='28'> Hi there👋, I'm Yusuf Tufan 
 
  ### <li>A devoted Software Developer || I'm a Computer Engeneering student || Admin from Türkiye</li>
@@ -17,7 +18,7 @@
 Hi there! I'm Yusuf, a passionate software developer dedicated to creating innovative solutions and building efficient, user-centric software. My journey in software development is driven by a commitment to solving real-world problems and continuously improving my skill set.
 My goal is not just to write code, but to deliver impactful solutions that address user needs while adhering to best coding practices. I strive to write clean, maintainable code and contribute to projects that make a difference. Let’s connect and collaborate on exciting ventures! 🚀
 
----
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1028" height="34">
 <br>
 
  ## 💻 Tech Stack:
