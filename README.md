@@ -1,11 +1,11 @@
-  <ul><ul><ul><ul><ul><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"></ul></ul></ul></ul></ul>
+  <ul><ul><ul><ul><ul><ul><ul><img style="width:550px;height:500px;display: block;-webkit-user-select: none;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"></ul></ul></ul></ul></ul></ul></ul>
 <p align="center">
   <a href="https://github.com/jrohitofficial/readme-typing-svg" target="_blank">
-    <img 
+    <img style=display: block;"
       src="https://readme-typing-svg.demolab.com?lines=%20WELCOME%20TO%20MY%20CODING%20WORLD;%20STUDENT%20COMPUTER%20ENGINEERING;%20SOFTWARE%20DEVELOPER;ALWAYS%20LEARNING%20NEW%20THINGS&font=Arial+Black&center=true&width=650&height=40&color=#007BFF&vCenter=true&pause=5&size=40"/>
   </a>
-</p> 
 
+</p> 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1028" height="34">
 
  # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height='28'> Hi there👋, I'm Yusuf Tufan 
