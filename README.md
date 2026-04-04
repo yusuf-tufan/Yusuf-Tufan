@@ -26,6 +26,8 @@ My goal is not just to write code, but to deliver impactful solutions that addre
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
